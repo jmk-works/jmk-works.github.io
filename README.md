@@ -5,6 +5,7 @@
 | 짧은 링크 | 교안 |
 |---|---|
 | https://jmk-works.github.io/sinokor | AI agent |
+| https://jmk-works.github.io/dorocom | AI |
 
 ## 교안 추가하기
 
